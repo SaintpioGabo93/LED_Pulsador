@@ -1,0 +1,5 @@
+Message[301] /opt/microchip/mplabx/v5.20/mpasmx/p16lf628a.inc 34 : MESSAGE: (Processor-header file mismatch.  Verify selected processor.)
+Message[302] /home/gabo/MPLABXProjects/LED_Pulsador.X/LED_Pulsador.asm 14 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] /home/gabo/MPLABXProjects/LED_Pulsador.X/LED_Pulsador.asm 15 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] /home/gabo/MPLABXProjects/LED_Pulsador.X/LED_Pulsador.asm 16 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] /home/gabo/MPLABXProjects/LED_Pulsador.X/LED_Pulsador.asm 17 : Register in operand not in bank 0.  Ensure that bank bits are correct.
